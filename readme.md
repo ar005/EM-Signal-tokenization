@@ -1,6 +1,4 @@
-Project 1:
-
-Analysis of Electromagnetic Signals using Multi Modal Large Language Models
+Tokenizing Electromagnetic Signals for Multi Modal Large Language Models
 
 Team Members:
 
